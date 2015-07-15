@@ -1,0 +1,13 @@
+{
+  "name": "F OS",
+  "description": "a firefox os web application to simulate firefox os on android",
+  "launch_path": "/FxOS_Android/index.html",
+  "icons": {
+    "512": "/FxOS_Android/img/icon-512.png",
+    "128": "/FxOS_Android/img/icon-128.png"
+  },
+  "developer": {
+    "name": "SpEcHiDe"
+  },
+  "default_locale": "en"
+}
